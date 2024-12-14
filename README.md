@@ -14,10 +14,11 @@ and research purposes. Violating others' consent is both unethical and unlawful.
 ════════════════════════════════════════════════════════════════════════════════════════════════════════════
 ```
 
-***⭐ You can contribute to further development of my projects, Bitcoin Address: 1HebCDtpawVo1EMGXQNPsy5ksxmSiwQCdo***<br/><br/>
+***⭐ You can contribute to further development of my projects, Bitcoin Address:***</br>
+`1HebCDtpawVo1EMGXQNPsy5ksxmSiwQCdo`
 ## Usage:
 ***
-***Run the tool with the following command:*** <br/><br/>
+***Run the tool with the following command:*** <br/>
 ` python3 main.py `
 ***Then, you can create the virus as you wish by encoding it with base64 and changing its extension. As a result of the encoding, the victim will not be able to directly see the content of the virus.*** <br/><br/>
 ```
