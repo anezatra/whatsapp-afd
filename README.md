@@ -13,6 +13,8 @@ study of vulnerabilities to foster a safer digital environment. Please usethis t
 and research purposes. Violating others' consent is both unethical and unlawful.
 ════════════════════════════════════════════════════════════════════════════════════════════════════════════
 ```
+
+***⭐ You can contribute to further development of my projects, Bitcoin Address: 1HebCDtpawVo1EMGXQNPsy5ksxmSiwQCdo***<br/><br/>
 ## Usage:
 ***
 ***Run the tool with the following command:*** <br/><br/>
