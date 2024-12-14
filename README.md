@@ -4,7 +4,7 @@
 ***The tool creates a virus disguised as an image named wsp_main.png. The attacker sends this image to the victim, who unknowingly executes it using Termux or ADB shell with the command bash wsp_main.png. The virus runs silently in the background, leaving no visible output. While the victim continues using their device, the virus zips and uploads WhatsApp media, including photos, stickers, audio files, profile pictures, shared documents, and backgrounds, to the attacker's cloud (Drive or Mega). Once complete, the virus deletes all traces of its activity and self-destructs, leaving no evidence.***
 <br/>
 ## How To Work ⚙️
-****The way the tool works is as follows:***
+****The way the tool works is as follows:***<br></br>
 ![banner image](https://github.com/anezatra/whatsapp-afd/blob/main/work.jpg)
 ```
 ════════════════════════════════════════════════════════════════════════════════════ ⚠️ ATTENTION ⚠️ ════════════════════════════════════════════════════════════════════════════════════
