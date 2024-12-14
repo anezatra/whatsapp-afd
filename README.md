@@ -7,10 +7,10 @@
 ****The way the tool works is as follows:***<br></br>
 ![banner image](https://github.com/anezatra/whatsapp-afd/blob/main/working.jpg)
 ```
-════════════════════════════════════════════════════════════════════════════════════ ⚠️ ATTENTION ⚠️ ════════════════════════════════════════════════════════════════════════════════════
+═════════════════════════════════════════⚠️ ATTENTION ⚠️ ═════════════════════════════════════════
 The misuse of this tool constitutes a legal offense. As Anezatra, my aim is to promote the experimental study of vulnerabilities to foster a safer digital environment. Please use
 this tool solely for educational and research purposes. Violating others' consent is both unethical and unlawful.
-══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════════════════════════════
 ```
 
 ## Usage:
