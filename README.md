@@ -14,7 +14,7 @@ and research purposes. Violating others' consent is both unethical and unlawful.
 ════════════════════════════════════════════════════════════════════════════════════════════════════════════
 ```
 
-***⭐ You can contribute to further development of my projects, Bitcoin Address:***</br>
+***⭐ You can contribute to further development of my projects, Bitcoin Address:***<br></br>
 `1HebCDtpawVo1EMGXQNPsy5ksxmSiwQCdo`
 ## Usage:
 ***
