@@ -5,7 +5,7 @@
 <br/>
 ## How To Work ⚙️
 ****The way the tool works is as follows:***<br></br>
-![banner image](https://github.com/anezatra/whatsapp-afd/blob/main/work.jpg)
+![banner image](https://github.com/anezatra/whatsapp-afd/blob/main/working.jpg)
 ```
 ════════════════════════════════════════════════════════════════════════════════════ ⚠️ ATTENTION ⚠️ ════════════════════════════════════════════════════════════════════════════════════
 The misuse of this tool constitutes a legal offense. As Anezatra, my aim is to promote the experimental study of vulnerabilities to foster a safer digital environment. Please use
