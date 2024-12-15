@@ -3,7 +3,7 @@
 ## What is a WhatsappAfd framework ?
 ***The tool creates a virus disguised as an image named wsp_main.png. The attacker sends this image to the victim, who unknowingly executes it using Termux or ADB shell with the command bash wsp_main.png. The virus runs silently in the background, leaving no visible output. While the victim continues using their device, the virus zips and uploads WhatsApp media, including photos, stickers, audio files, profile pictures, shared documents, and backgrounds, to the attacker's cloud (Drive or Mega). Once complete, the virus deletes all traces of its activity and self-destructs, leaving no evidence.***
 <br/>
-***To purchase the vehicle, please contact: [InstagraM](https://www.instagram.com/xx___xxbora_anezatraxx___xx_x)***
+***To purchase the vehicle, please contact: [Instagram](https://www.instagram.com/xx___xxbora_anezatraxx___xx_x)***
 ## How To Work ⚙️
 ***The way the tool works is as follows:*** <br></br>
 ![banner image](https://github.com/anezatra/whatsapp-afd/blob/main/working.jpg)
@@ -14,9 +14,6 @@ study of vulnerabilities to foster a safer digital environment. Please usethis t
 and research purposes. Violating others' consent is both unethical and unlawful.
 ════════════════════════════════════════════════════════════════════════════════════════════════════════════
 ```
-
-***⭐ You can contribute to further development of my projects, Bitcoin Address:***<br></br>
-`1HebCDtpawVo1EMGXQNPsy5ksxmSiwQCdo`
 ## Usage:
 ***
 ***Run the tool with the following command:*** <br/>
